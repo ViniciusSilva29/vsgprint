@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&family=Onest:wght@100..900&display=swap');
+
+body {
+    font-family: "Lexend Deca";
+    background-color: rgb(24, 51, 126);
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+}
+
+.container {
+    font-size: 20px;
+    background-color: white;
+    border: 50px;
+    border-color: black;
+    border-radius: 70px;
+    max-width: 20em;
+    margin: 0 auto;
+    padding: 2em;
+}
+
+footer {
+    color: white;
+    position: absolute;
+    bottom: 0; width: 99%;
+}

@@ -10,6 +10,8 @@ h1 {
     font-size: 50px;
 }
 
+
+
 .container {
     font-size: 20px;
     background-color: white;
@@ -24,5 +26,5 @@ h1 {
 footer {
     color: white;
     position: absolute;
-    bottom: 0; width: 99%;
+    bottom: 1; width: 99%;
 }

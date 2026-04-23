@@ -31,4 +31,11 @@ footer {
     bottom: 0; width: 99%;
 }
 
+input {
+    height: 30px;
+}
+
+select {
+    height: 30px;
+}
 
